@@ -149,6 +149,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  neubrutalism_ui:
+    dependency: "direct main"
+    description:
+      name: neubrutalism_ui
+      sha256: "1c62b532d7e9af2b2a16373211c4a5d0849e503fa1f92649b2f1ed06d88ad439"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.0-beta-2"
   path:
     dependency: transitive
     description:
