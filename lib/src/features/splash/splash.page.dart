@@ -23,8 +23,9 @@ class SplashPage extends StatelessWidget {
               child: Stack(
                 children: [
                   Center(
-                      child: Icon(Icons.account_circle,
-                          color: Colors.white, size: 50)),
+                    child: Icon(Icons.account_circle,
+                        color: Colors.white, size: 50),
+                  ),
                   Center(
                     child: SizedBox(
                       width: 60,
